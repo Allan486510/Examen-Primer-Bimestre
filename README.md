@@ -84,28 +84,3 @@ empresa.editarProyecto(0, nuevoProyecto)
 // Eliminar el segundo proyecto
 empresa.eliminarProyecto(1)
 ```
-
-## Archivos generados
-
-- **`<nombre>.txt`**: Archivo que almacena la información básica de la empresa.
-- **`<nombre>-proyectos.txt`**: Archivo que almacena los proyectos asociados a la empresa.
-
-## Estructura del proyecto
-
-```
-.
-├── Empresa.kt        // Clase Empresa
-├── Proyecto.kt       // Clase Proyecto (complementaria)
-├── outputs/          // Directorio sugerido para los archivos generados
-└── README.md         // Este archivo
-```
-
-## Próximas mejoras
-- Validaciones adicionales para evitar inconsistencias en los datos.
-- Integración con una base de datos para persistencia avanzada.
-- Interfaz gráfica o API REST para facilitar el uso del sistema.
-
-## Licencia
-Este proyecto está disponible bajo una licencia MIT. Puedes utilizarlo, modificarlo y distribuirlo libremente bajo los términos de esta licencia.
-
-
