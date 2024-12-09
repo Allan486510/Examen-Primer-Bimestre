@@ -1,4 +1,4 @@
-#Examen Primer bimestre
+# Examen Primer bimestre
 ## Empresa y Proyectos
 
 Este proyecto es una implementación en **Kotlin** para gestionar información de empresas y sus proyectos asociados. La clase `Empresa` permite manejar atributos básicos de la empresa, agregar, editar, eliminar y listar proyectos, además de guardar y cargar esta información en archivos de texto.
